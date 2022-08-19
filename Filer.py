@@ -40,7 +40,7 @@ class Filer:
     
     def Win():    
         root = Tk()
-                                                                               # this function has works with the graphic control
+                                                                               # this function works out the graphic control
         root.geometry("300x100")
         root.title("Filer")
         button1 =  Button(root, text="Analyze the file!",
