@@ -1,4 +1,3 @@
-# Filer
 This code is just a small creation, and it's my first code with Tkinter.
 The default word database can be modified just as you want.
 You have to edit the second commented line of the code as it is described in it, otherwise it wouldn't work out with your computer.
